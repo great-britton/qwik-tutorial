@@ -35,7 +35,6 @@ export default component$(() => {
 
   return (
     <>
-      {" "}
       <Header />
       <div class="flex flex-col gap-2">
         <img
