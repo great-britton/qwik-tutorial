@@ -80,7 +80,9 @@ const onClose = $(()=>{
       <a href="/">Corgitto</a>
 
       <a href="/qwik-tutorial/">Qwik Tutorial</a>
-      <img src="/logo.png" alt="truesight" />
+      <a href="https://truesight.gg">
+        <img src="/logo.png" alt="truesight" />
+      </a>
 
       <div
         class="text-xl sm:text-3xl relative cursor-pointer"
